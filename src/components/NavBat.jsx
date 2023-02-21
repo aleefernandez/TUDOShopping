@@ -4,6 +4,7 @@ import CartWidget from "./CartWidget";
 const NavBar = () => {
     return <div>
     Tienda
+    Lista de productos
     
     <CartWidget/>
     </div>;
