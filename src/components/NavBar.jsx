@@ -32,11 +32,12 @@ const NavBar = () => {
           </ul>
         </li>
       </ul>
+      <CartWidget/>
     </div>
   </div>
 </nav>
     
-    <CartWidget/>
+    
     </div>;
 };
 
